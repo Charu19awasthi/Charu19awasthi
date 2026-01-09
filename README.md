@@ -41,7 +41,7 @@
 ## 🏆 Certifications
 
 <p align="center">
-  <img src="./assets/certificates/cert1.png" width="220"/>
+  <img src="./assets/certificates/CHARU AWASTHI_Cert_Contributor_GSSoC2024.png" width="220"/>
   <img src="./assets/certificates/cert2.png" width="220"/>
   <img src="./assets/certificates/cert3.png" width="220"/>
 </p>
