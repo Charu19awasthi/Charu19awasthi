@@ -57,7 +57,9 @@
   <img src="./assets/internships/intern2.png" width="300"/>
 </p>
 
-- 🏢 Internship @ Company / Institute  
+- 🏢 Internship @ ITECH / DATA ANALYST
+- 🏢 Internship @ Engineer HUb / Campus Ambassdor
+- 🏢 Internship @ EDUCATION FRIEND/ Web Development
 - ✉️ Letter of Recommendation from Mentor
 
 ---
