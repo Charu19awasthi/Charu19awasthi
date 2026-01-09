@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="./assets/certificates/CHARU AWASTHI_Cert_Contributor_GSSoC2024.png" width="220"/>
-  <img src="./assets/certificates/nasa decoders certificate.pdf" width="220"/>
+  <img src="./assets/certificates/Screenshot 2026-01-09 231844.png" width="220"/>
   <img src="./assets/certificates/charu awasthi_Cert_Contributor_GSSoC2024Extd.png" width="220"/>
   <img src="./assets/certificates/cert3.png" width="220"/>
   <img src="./assets/certificates/cert3.png" width="220"/>
