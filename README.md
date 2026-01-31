@@ -28,15 +28,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Live |
-|--------|-------------|------|
-| **Sehat Saathi Guide** | Healthcare assistant web app | 🔗 Live / Demo |
-| **Minor Projects** | Collection of small apps | 🔗 GitHub |
-| **Project X** | Describe another key project | 🔗 Link |
-
----
 
 ## 🏆 Certifications
 
@@ -44,8 +35,7 @@
   <img src="./assets/certificates/CHARU AWASTHI_Cert_Contributor_GSSoC2024.png" width="220"/>
   <img src="./assets/certificates/Screenshot 2026-01-09 231844.png" width="220"/>
   <img src="./assets/certificates/charu awasthi_Cert_Contributor_GSSoC2024Extd.png" width="220"/>
-  <img src="./assets/certificates/cert3.png" width="220"/>
-  <img src="./assets/certificates/cert3.png" width="220"/>
+
 </p>
 
 ---
