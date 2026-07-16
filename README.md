@@ -2,7 +2,11 @@
 <h3 align="center">AI & ML Engineer • Python Developer • Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Building+Intelligent+Systems;AI+%7C+Backend+%7C+Full+Stack;Creating+Impactful+Technology&center=true&width=700&height=45&color=00F7FF">
+  <img src="./assets/banner/banner.png" alt="Charu Awasthi Banner" width="100%" style="border-radius: 12px;" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?lines=Building+Intelligent+Systems;AI+%7C+Backend+%7C+Full+Stack;Creating+Impactful+Technology&center=true&width=700&height=45&color=9162b">
 </p>
 
 <p align="center">
