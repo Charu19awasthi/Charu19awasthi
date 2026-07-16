@@ -2,79 +2,80 @@
 <h3 align="center">AI & ML Engineer • Python Developer • Full Stack Developer</h3>
 
 <p align="center">
-B.Tech CSE (AI/ML) • Open Source Contributor • Building impactful technology
+  <img src="https://readme-typing-svg.demolab.com?lines=Building+Intelligent+Systems;AI+%7C+Backend+%7C+Full+Stack;Creating+Impactful+Technology&center=true&width=700&height=45&color=00F7FF">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=AI+%26+ML+Engineer;Python+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=600&height=40">
+  <img src="https://github-readme-stats.vercel.app/api?username=Charu19awasthi&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charu19awasthi&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## About
 
-I am an aspiring AI & ML Engineer with a strong foundation in Python and full stack development. I focus on building scalable, real-world applications with clean design and efficient backend systems.
+I am an AI & ML focused developer with a strong foundation in Python and full stack development.
+I build intelligent, scalable systems with clean architecture and real-world impact.
 
-Currently, I am expanding my expertise in machine learning, backend architecture, and cloud technologies while actively contributing to the developer community.
+Currently exploring machine learning, backend engineering, and cloud technologies.
 
 ---
 
 ## Experience
 
-**Programs & Recognition**
+### Programs
 
-* GeeksforGeeks Campus Mantri
-* Tech Mahindra – Software Development Intern
-* PwC Launchpad Program
-* Microsoft AICW AI Training
+* 🎓 GeeksforGeeks Campus Mantri
+* 💼 Tech Mahindra — Software Development Intern
+* 🌐 PwC Launchpad Program
+* 🤖 Microsoft AICW AI Training
 
-**Internships**
+### Internships
 
-* ITECH — Data Analyst Intern
-* Engineer Hub — Campus Ambassador
-* Education Friend — Web Development Intern
+* 🏢 ITECH — Data Analyst Intern
+* 🏢 Engineer Hub — Campus Ambassador
+* 🏢 Education Friend — Web Developer
 
 ---
 
-## Skills
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tailwind,git,github,mongodb,firebase,fastapi,flask&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,tailwind,git,github,mongodb,firebase,fastapi,flask,tensorflow,pytorch&theme=dark" />
 </p>
 
-**Core Areas**
+---
 
-* Python & Backend Development
-* Machine Learning & AI
-* Full Stack Development
-* Data Structures & Problem Solving
+## Focus Areas
+
+* ⚡ AI-based systems
+* ⚡ Machine Learning applications
+* ⚡ Scalable web platforms
+* ⚡ Data-driven solutions
 
 ---
 
 ## Achievements
 
-* Open Source Contributor — GSSoC 2024
-* Open Source Lead — GDG
-* NASA Space Apps Hackathon — Top Team Selection
+* 🏆 Open Source Contributor — GSSoC 2024
+* ⭐ Open Source Lead — GDG
+* 🚀 NASA Space Apps Hackathon — Top Team
 
 ---
 
-## GitHub Stats
+## Connect
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charu19awasthi&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Charu19awasthi&theme=tokyonight" height="150" />
+  <a href="mailto:charuawa184@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
+  </a>
+  <a href="https://www.linkedin.com/in/charu-awasthi-6312b6293">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+  </a>
 </p>
 
 ---
 
-## Contact
-
-* Email: [charuawa184@gmail.com](mailto:charuawa184@gmail.com)
-* LinkedIn: https://www.linkedin.com/in/charu-awasthi-6312b6293
-
----
-
 <p align="center">
-Focused on building meaningful and scalable technology.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=120&section=footer"/>
 </p>
