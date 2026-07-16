@@ -1,60 +1,65 @@
-<h1 align="center">Hey 👋, I’m Charu Awasthi</h1>
-<h3 align="center">Aspiring AI & ML Engineer • Full Stack Developer • Open Source Enthusiast</h3>
+<h1 align="center">Charu Awasthi</h1>
+<h3 align="center">AI & ML Engineer • Python Developer • Full Stack Developer</h3>
 
 <p align="center">
-  🎓 B.Tech CSE (AI/ML) | 🔐 Cybersecurity Enthusiast | 🌍 Open Source
+B.Tech CSE (AI/ML) • Open Source Contributor • Building impactful technology
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=AI+%26+ML+Engineer;Full+Stack+Developer;Healthcare+Tech+Builder&center=true&width=600">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 🔭 Currently learning Python, full-stack & ML  
-- 🛠 Building scalable & user-centered apps  
-- 🤝 I’m looking to collaborate on open-source projects  
-- 🌱 Actively contributing to community-oriented tech
-
----
-
-## 🛠 Skills & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,html,css,tailwind,nodejs,git,github" />
+  <img src="https://readme-typing-svg.demolab.com?lines=AI+%26+ML+Engineer;Python+Developer;Full+Stack+Developer;Open+Source+Contributor&center=true&width=600&height=40">
 </p>
 
 ---
 
+## About
 
-## 🏆 Certifications
+I am an aspiring AI & ML Engineer with a strong foundation in Python and full stack development. I focus on building scalable, real-world applications with clean design and efficient backend systems.
 
-<p align="center">
-  <img src="./assets/certificates/CHARU AWASTHI_Cert_Contributor_GSSoC2024.png" width="220"/>
-  <img src="./assets/certificates/Screenshot 2026-01-09 231844.png" width="220"/>
-  <img src="./assets/certificates/charu awasthi_Cert_Contributor_GSSoC2024Extd.png" width="220"/>
-
-</p>
+Currently, I am expanding my expertise in machine learning, backend architecture, and cloud technologies while actively contributing to the developer community.
 
 ---
 
-## 🧑‍💼 Internships & Letters
+## Experience
 
-<p align="center">
-  <img src="./assets/internships/intern1.png" width="300"/>
-  <img src="./assets/internships/intern2.png" width="300"/>
-</p>
+**Programs & Recognition**
 
-- 🏢 Internship @ ITECH / DATA ANALYST
-- 🏢 Internship @ Engineer HUb / Campus Ambassdor
-- 🏢 Internship @ EDUCATION FRIEND/ Web Development
-- ✉️ Letter of Recommendation from Mentor
+* GeeksforGeeks Campus Mantri
+* Tech Mahindra – Software Development Intern
+* PwC Launchpad Program
+* Microsoft AICW AI Training
+
+**Internships**
+
+* ITECH — Data Analyst Intern
+* Engineer Hub — Campus Ambassador
+* Education Friend — Web Development Intern
 
 ---
 
-## 📊 GitHub Stats
+## Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,tailwind,git,github,mongodb,firebase,fastapi,flask&perline=7" />
+</p>
+
+**Core Areas**
+
+* Python & Backend Development
+* Machine Learning & AI
+* Full Stack Development
+* Data Structures & Problem Solving
+
+---
+
+## Achievements
+
+* Open Source Contributor — GSSoC 2024
+* Open Source Lead — GDG
+* NASA Space Apps Hackathon — Top Team Selection
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Charu19awasthi&show_icons=true&theme=tokyonight" height="150" />
@@ -63,20 +68,13 @@
 
 ---
 
-## 📫 Contact Me
+## Contact
 
-- ✉️ Email: charuawa184@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/charu-awasthi-6312b6293  
-- 💬 Let’s build something amazing!
+* Email: [charuawa184@gmail.com](mailto:charuawa184@gmail.com)
+* LinkedIn: https://www.linkedin.com/in/charu-awasthi-6312b6293
 
 ---
 
 <p align="center">
-  💙 Passionate about building impactful, ethical and accessible tech
+Focused on building meaningful and scalable technology.
 </p>
-
-
-<!---
-Charu19awasthi/Charu19awasthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
